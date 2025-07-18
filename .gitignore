@@ -1,0 +1,18 @@
+# STM32CubeIDE build files
+/Debug/
+/Release/
+*.launch
+*.log
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+
+# IDE files
+/.vscode/
+/.settings/
+/.idea/
+*.user
+*.suo
